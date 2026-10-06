@@ -1,0 +1,8 @@
+[server]
+# Disable Streamlit's file watcher to prevent it from scanning the venv
+# and tripping over transformers submodules that require torchvision.
+# Hot-reload still works via Ctrl+C + re-run; this only stops the background watcher noise.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

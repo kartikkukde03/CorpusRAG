@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+streamlit
+docx2txt
+langchain-text-splitters
+psycopg2-binary
+pgvector
+langchain-google-genai
